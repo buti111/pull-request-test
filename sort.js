@@ -9,4 +9,6 @@ var sortNumber = function(number) {
 
 var nums = [1,2,3,4,10,12,9,8];
 sortNumber(nums);
+
 console.log(nums);
+
