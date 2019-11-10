@@ -14,3 +14,7 @@ sortNumber(nums);
 
 console.log(nums);
 
+console.log(nums);
+
+console.log(nums);
+
